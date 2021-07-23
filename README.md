@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alexhayneshs
+- 👀 I’m a Front-End Web Developer at Help Scout
+- 🌱 I’m currently learning how to tend a garden.
