@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alexdhaynes
-- 🦉 I'm currently pursuing a B.S. of Mathematics at Indiana University East. (My first B.A. was in French Literature!)
+- 🦉 I'm currently pursuing a B.S. of Mathematics at Indiana University East. (My first B.A. was in French Literature at NYU)
 - 🌲 When I'm not in VS Code, I like to hike through regional forests, take long walks in town, explore city parks and rural trails, and learn new things
