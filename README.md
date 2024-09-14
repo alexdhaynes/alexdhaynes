@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @alexdhaynes
-- I am a Front-End Developer
+- 👋🏿 Hi, I’m @alexdhaynes
+- 👩🏿‍💻 I am a Front-End Developer
 - 🦉 I'm currently pursuing a B.S. of Mathematics at Indiana University East. (My first B.A. was in French Literature at NYU)
-- 🌲 When I'm not in front a computer, I like to hike through regional forests, take long walks in town, explore trails, and learn new things
+- 🌲 When I'm not in front a computer, I like to hike through forests, take long walks, practice yoga, and learn new things
+- 🐈 Cat person
