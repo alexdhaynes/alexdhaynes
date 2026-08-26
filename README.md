@@ -1,4 +1,4 @@
 - 👋🏿 Hi, I’m @alexdhaynes
-- 👩🏿‍💻 I am a Front-End Engineer @ airbnb
+- 👩🏿‍💻 I am a Software Engineer @ Airbnb
 - 🌲 When I'm not in front a computer, I like to take very long walks and meditate
 - 🐈 Cat person
