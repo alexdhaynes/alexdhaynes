@@ -1,4 +1,4 @@
 - 👋🏿 Hi, I’m @alexdhaynes
-- 👩🏿‍💻 I am a Front-End Engineer
-- 🌲 When I'm not in front a computer, I like to hike through forests, take long walks, practice yoga, and learn new things
+- 👩🏿‍💻 I am a Front-End Engineer @ airbnb
+- 🌲 When I'm not in front a computer, I like to take very long walks and meditate
 - 🐈 Cat person
