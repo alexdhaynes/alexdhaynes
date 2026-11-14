@@ -1,4 +1,4 @@
 - 👋🏿 Hi, I’m @alexdhaynes
 - 👩🏿‍💻 I am a Software Engineer @ Airbnb
-- 🌲 When I'm not in front a computer, I like to take very long walks in the woods
+- 🌲 When I'm not in front a computer, I like to spend time in nature
 - 🐈 Cat person
